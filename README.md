@@ -1,6 +1,6 @@
 # 영어공부
 
-성인 학습자를 위한 단계별 영어 학습 사이트 (초급, 중급, 고급, 회화). 기획은 [PLAN.md](PLAN.md)를 보세요.
+성인 학습자를 위한 단계별 영어 학습 사이트 (초급, 중급, 고급, 회화). 사이트: https://goodhosup.github.io/english-study/ · 기획은 [PLAN.md](PLAN.md)를 보세요.
 
 ## 준비 (처음 한 번)
 
@@ -17,7 +17,7 @@ python3 -m venv .venv
 | 새 예문 음성 만들기 (있는 파일은 건너뜀) | `.venv/bin/python tools/make-audio.py` |
 | 음성 전부 다시 만들기 | `.venv/bin/python tools/make-audio.py --force` |
 | 사이트 빌드 (build/site) | `.venv/bin/mkdocs build` |
-| 위키독스용 내보내기 (build/wikidocs) | `python3 tools/export-wikidocs.py --base-url https://<공개 사이트 주소>/` |
+| 위키독스용 내보내기 (build/wikidocs) | `python3 tools/export-wikidocs.py --base-url https://goodhosup.github.io/english-study/` |
 
 ## 강의 쓰는 법
 
