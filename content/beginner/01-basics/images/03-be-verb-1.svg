@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+  <rect width="800" height="420" fill="#F4FBF6"/>
+  <text x="400" y="52" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">주어가 be동사를 정해요</text>
+  <g font-size="28">
+    <g transform="translate(60,100)">
+      <rect width="300" height="80" rx="16" fill="#FFFFFF" stroke="#2E9E5B" stroke-width="3"/>
+      <text x="150" y="51" text-anchor="middle" fill="#222">I</text>
+      <path d="M310 40 H420" stroke="#2E9E5B" stroke-width="5" marker-end="url(#a)"/>
+      <rect x="440" width="240" height="80" rx="16" fill="#2E9E5B"/>
+      <text x="560" y="51" text-anchor="middle" fill="#FFF" font-weight="bold">am</text>
+    </g>
+    <g transform="translate(60,200)">
+      <rect width="300" height="80" rx="16" fill="#FFFFFF" stroke="#2E9E5B" stroke-width="3"/>
+      <text x="150" y="51" text-anchor="middle" fill="#222">You / We / They</text>
+      <path d="M310 40 H420" stroke="#2E9E5B" stroke-width="5" marker-end="url(#a)"/>
+      <rect x="440" width="240" height="80" rx="16" fill="#2E9E5B"/>
+      <text x="560" y="51" text-anchor="middle" fill="#FFF" font-weight="bold">are</text>
+    </g>
+    <g transform="translate(60,300)">
+      <rect width="300" height="80" rx="16" fill="#FFFFFF" stroke="#2E9E5B" stroke-width="3"/>
+      <text x="150" y="51" text-anchor="middle" fill="#222">He / She / It</text>
+      <path d="M310 40 H420" stroke="#2E9E5B" stroke-width="5" marker-end="url(#a)"/>
+      <rect x="440" width="240" height="80" rx="16" fill="#2E9E5B"/>
+      <text x="560" y="51" text-anchor="middle" fill="#FFF" font-weight="bold">is</text>
+    </g>
+  </g>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2E9E5B"/></marker></defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+  <defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker>
+  <marker id="b" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="2.2" markerHeight="2.2" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2F6FDB"/></marker></defs>
+  <rect width="800" height="440" fill="#F3F7FE"/>
+  <text x="400" y="50" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">과거형은 점, 현재완료는 선</text>
+  <!-- past simple -->
+  <text x="60" y="118" font-size="22" font-weight="bold" fill="#333">과거형</text>
+  <text x="60" y="146" font-size="20" fill="#555">I lost my key yesterday.</text>
+  <line x1="60" y1="190" x2="740" y2="190" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+  <circle cx="300" cy="190" r="13" fill="#E05252"/>
+  <text x="300" y="228" text-anchor="middle" font-size="20" fill="#E05252">yesterday</text>
+  <line x1="600" y1="172" x2="600" y2="208" stroke="#333" stroke-width="3"/>
+  <text x="600" y="228" text-anchor="middle" font-size="20" fill="#333">지금</text>
+  <!-- present perfect -->
+  <text x="60" y="290" font-size="22" font-weight="bold" fill="#333">현재완료</text>
+  <text x="60" y="318" font-size="20" fill="#555">I've worked here for five years.</text>
+  <line x1="60" y1="362" x2="740" y2="362" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+  <circle cx="200" cy="362" r="11" fill="#2F6FDB"/>
+  <line x1="200" y1="362" x2="570" y2="362" stroke="#2F6FDB" stroke-width="10" marker-end="url(#b)"/>
+  <text x="200" y="400" text-anchor="middle" font-size="20" fill="#2F6FDB">5년 전</text>
+  <line x1="600" y1="344" x2="600" y2="380" stroke="#333" stroke-width="3"/>
+  <text x="600" y="400" text-anchor="middle" font-size="20" fill="#333">지금</text>
+  <text x="400" y="342" text-anchor="middle" font-size="18" fill="#2F6FDB">for five years</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+  <!-- wall & floor -->
+  <rect width="800" height="480" fill="#FFF6EE"/>
+  <rect y="360" width="800" height="120" fill="#F2D9C2"/>
+  <!-- window -->
+  <rect x="300" y="40" width="200" height="130" rx="8" fill="#CFE8F7" stroke="#C98B5A" stroke-width="6"/>
+  <line x1="400" y1="40" x2="400" y2="170" stroke="#C98B5A" stroke-width="5"/>
+  <!-- table -->
+  <rect x="120" y="300" width="300" height="18" rx="6" fill="#B8733E"/>
+  <rect x="255" y="318" width="30" height="90" fill="#9A5F32"/>
+  <rect x="215" y="400" width="110" height="14" rx="6" fill="#9A5F32"/>
+  <!-- plate & glass on table -->
+  <ellipse cx="230" cy="296" rx="45" ry="8" fill="#FFFFFF" stroke="#DDD"/>
+  <rect x="330" y="262" width="22" height="36" rx="4" fill="#D6EEF8" stroke="#9CC" stroke-width="2"/>
+  <!-- customer (seated, left) -->
+  <rect x="60" y="300" width="100" height="14" rx="5" fill="#8A6A4F"/>
+  <rect x="60" y="230" width="14" height="84" rx="5" fill="#8A6A4F"/>
+  <rect x="66" y="314" width="10" height="80" fill="#8A6A4F"/>
+  <rect x="146" y="314" width="10" height="80" fill="#8A6A4F"/>
+  <rect x="88" y="215" width="70" height="90" rx="26" fill="#3D7BD9"/>
+  <circle cx="123" cy="185" r="32" fill="#F5C9A5"/>
+  <path d="M91 180 Q95 145 123 148 Q153 145 155 178 Q140 162 123 166 Q103 164 91 180 Z" fill="#3B2A20"/>
+  <circle cx="132" cy="186" r="3" fill="#333"/>
+  <path d="M128 200 Q136 205 143 199" stroke="#333" stroke-width="2.5" fill="none"/>
+  <rect x="150" y="250" width="70" height="16" rx="8" fill="#3D7BD9"/>
+  <rect x="140" y="300" width="18" height="70" rx="8" fill="#2D3E5A"/>
+  <rect x="100" y="300" width="60" height="18" rx="8" fill="#2D3E5A"/>
+  <!-- menu in hand -->
+  <rect x="212" y="226" width="34" height="46" rx="3" fill="#E8833A"/>
+  <!-- waiter (standing, right) -->
+  <rect x="560" y="320" width="20" height="90" rx="8" fill="#2B2B2B"/>
+  <rect x="595" y="320" width="20" height="90" rx="8" fill="#2B2B2B"/>
+  <rect x="545" y="200" width="85" height="130" rx="28" fill="#FFFFFF" stroke="#DDD" stroke-width="2"/>
+  <rect x="552" y="250" width="72" height="80" rx="10" fill="#2B2B2B"/>
+  <path d="M575 205 L588 222 L601 205 Z" fill="#E05252"/>
+  <circle cx="588" cy="168" r="32" fill="#E9B48C"/>
+  <path d="M556 160 Q560 128 588 130 Q618 128 620 160 Q605 146 588 148 Q570 146 556 160 Z" fill="#1F1F1F"/>
+  <circle cx="577" cy="170" r="3" fill="#333"/>
+  <path d="M570 184 Q577 190 585 184" stroke="#333" stroke-width="2.5" fill="none"/>
+  <!-- notepad & pen -->
+  <rect x="500" y="240" width="60" height="16" rx="8" fill="#FFFFFF" stroke="#DDD" stroke-width="2"/>
+  <rect x="478" y="222" width="34" height="44" rx="3" fill="#FFF8C9" stroke="#C9B94F" stroke-width="2"/>
+  <line x1="486" y1="236" x2="504" y2="236" stroke="#C9B94F" stroke-width="2"/>
+  <line x1="486" y1="246" x2="504" y2="246" stroke="#C9B94F" stroke-width="2"/>
+  <!-- speech bubble customer -->
+  <g>
+    <rect x="30" y="30" width="250" height="78" rx="18" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="3"/>
+    <path d="M110 106 L122 140 L138 106 Z" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="108" y="100" width="34" height="8" fill="#FFFFFF"/>
+    <text x="155" y="64" text-anchor="middle" font-size="20" fill="#222">Can I get the pasta,</text>
+    <text x="155" y="90" text-anchor="middle" font-size="20" fill="#222">please?</text>
+  </g>
+  <!-- speech bubble waiter -->
+  <g>
+    <rect x="520" y="40" width="260" height="64" rx="18" fill="#FFFFFF" stroke="#E8833A" stroke-width="3"/>
+    <path d="M585 102 L590 128 L608 102 Z" fill="#FFFFFF" stroke="#E8833A" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="583" y="96" width="28" height="8" fill="#FFFFFF"/>
+    <text x="650" y="80" text-anchor="middle" font-size="20" fill="#222">Sure. Anything to drink?</text>
+  </g>
+  <text x="400" y="458" text-anchor="middle" font-size="20" fill="#7A4A22">손님(B)이 직원(A)에게 주문하는 장면</text>
+</svg>

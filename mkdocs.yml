@@ -1,0 +1,41 @@
+site_name: 영어공부
+site_description: 성인 학습자를 위한 단계별 영어 학습 (초급, 중급, 고급, 회화)
+site_url: https://goodhosup.github.io/english-study/
+repo_url: https://github.com/goodhosup/english-study
+docs_dir: content
+site_dir: build/site
+
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.footer
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle: { icon: material/weather-night, name: 다크 모드 }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle: { icon: material/weather-sunny, name: 라이트 모드 }
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - tables
+  - toc: { permalink: true }
+
+extra_css: [assets/lesson.css]
+extra_javascript: [assets/lesson.js]
+
+exclude_docs: |
+  *.svg
