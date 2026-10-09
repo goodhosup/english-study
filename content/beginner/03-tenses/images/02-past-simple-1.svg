@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="410" fill="#F4FBF6"/>
+<text x="400" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">과거형: 지나간 시점에 끝난 일</text>
+<line x1="60" y1="230" x2="740" y2="230" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<line x1="710" y1="210" x2="710" y2="250" stroke="#333" stroke-width="3"/><text x="710" y="275" text-anchor="middle" font-size="19" fill="#333">지금</text>
+<circle cx="145" cy="230" r="13" fill="#E05252"/>
+<text x="145" y="275" text-anchor="middle" font-size="19" fill="#E05252">last summer</text>
+<rect x="40" y="120" width="210" height="60" rx="12" fill="#FFF" stroke="#E05252" stroke-width="2"/>
+<text x="145" y="157" text-anchor="middle" font-size="18" fill="#222">We went to Jeju.</text>
+<line x1="145" y1="180" x2="145" y2="215" stroke="#E05252" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="375" cy="230" r="13" fill="#E05252"/>
+<text x="375" y="275" text-anchor="middle" font-size="19" fill="#E05252">last week</text>
+<rect x="270" y="120" width="210" height="60" rx="12" fill="#FFF" stroke="#E05252" stroke-width="2"/>
+<text x="375" y="157" text-anchor="middle" font-size="18" fill="#222">She bought a laptop.</text>
+<line x1="375" y1="180" x2="375" y2="215" stroke="#E05252" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="605" cy="230" r="13" fill="#E05252"/>
+<text x="605" y="275" text-anchor="middle" font-size="19" fill="#E05252">yesterday</text>
+<rect x="500" y="120" width="210" height="60" rx="12" fill="#FFF" stroke="#E05252" stroke-width="2"/>
+<text x="605" y="157" text-anchor="middle" font-size="18" fill="#222">I worked late.</text>
+<line x1="605" y1="180" x2="605" y2="215" stroke="#E05252" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="400" y="340" text-anchor="middle" font-size="21" fill="#444">이미 끝난 일 → 과거형 (주어가 누구든 같은 모양)</text>
+<text x="400" y="375" text-anchor="middle" font-size="20" fill="#666">work → work<tspan fill="#E05252" font-weight="bold">ed</tspan> · go → <tspan fill="#E05252" font-weight="bold">went</tspan> · buy → <tspan fill="#E05252" font-weight="bold">bought</tspan></text>
+</svg>

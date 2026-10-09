@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="420" fill="#F4FBF6"/>
+<text x="400" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">평소의 일 vs 지금 하는 중인 일</text>
+<text x="60" y="110" font-size="22" font-weight="bold" fill="#333">현재형: 평소에 늘</text>
+<text x="60" y="138" font-size="20" fill="#555">I work in Seoul.</text>
+<line x1="60" y1="185" x2="740" y2="185" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<line x1="520" y1="165" x2="520" y2="205" stroke="#333" stroke-width="3"/><text x="520" y="230" text-anchor="middle" font-size="19" fill="#333">지금</text>
+<circle cx="110" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="180" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="250" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="320" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="390" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="460" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="530" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="600" cy="185" r="9" fill="#2E9E5B"/>
+<circle cx="670" cy="185" r="9" fill="#2E9E5B"/>
+<text x="60" y="285" font-size="22" font-weight="bold" fill="#333">현재진행형: 지금 하는 중</text>
+<text x="60" y="313" font-size="20" fill="#555">I'm working from home today.</text>
+<line x1="60" y1="360" x2="740" y2="360" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="440" y="345" width="160" height="30" rx="15" fill="#E8833A"/>
+<line x1="520" y1="340" x2="520" y2="380" stroke="#333" stroke-width="3"/><text x="520" y="405" text-anchor="middle" font-size="19" fill="#333">지금</text>
+<text x="520" y="335" text-anchor="middle" font-size="18" fill="#E8833A">today</text>
+</svg>
