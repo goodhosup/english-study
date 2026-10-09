@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<rect width="800" height="400" fill="#F4FBF6"/>
+<text x="400" y="50" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">He, She, It 뒤에는 동사에 s</text>
+<rect x="60" y="100" width="300" height="80" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="210" y="151" text-anchor="middle" font-size="26" fill="#222">I / You / We / They</text>
+<rect x="400" y="100" width="200" height="80" rx="16" fill="#2E9E5B"/>
+<text x="500" y="152" text-anchor="middle" font-size="32" font-weight="bold" fill="#FFF">work</text>
+<rect x="60" y="230" width="300" height="80" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="210" y="281" text-anchor="middle" font-size="26" fill="#222">He / She / It</text>
+<rect x="400" y="230" width="200" height="80" rx="16" fill="#2E9E5B"/>
+<text x="500" y="282" text-anchor="middle" font-size="32" font-weight="bold" fill="#FFF">work</text>
+<circle cx="684" cy="270" r="36" fill="#E8833A"/>
+<text x="684" y="282" text-anchor="middle" font-size="36" font-weight="bold" fill="#FFF">s</text>
+<text x="625" y="282" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">+</text>
+<text x="400" y="370" text-anchor="middle" font-size="21" fill="#444">She <tspan fill="#E8833A" font-weight="bold">works</tspan> · He <tspan fill="#E8833A" font-weight="bold">goes</tspan> · It <tspan fill="#E8833A" font-weight="bold">has</tspan></text>
+</svg>

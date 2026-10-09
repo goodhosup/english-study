@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<rect width="800" height="470" fill="#F4FBF6"/>
+<text x="400" y="46" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">주어 + 동사 뒤에 무엇이 오나요?</text>
+<text x="30" y="106" font-size="20" font-weight="bold" fill="#444">1형식</text>
+<rect x="110" y="70" width="90" height="52" rx="10" fill="#5B6B7A"/>
+<text x="155.0" y="103" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">S</tspan>  I</text>
+<rect x="210" y="70" width="120" height="52" rx="10" fill="#2E9E5B"/>
+<text x="270.0" y="103" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">V</tspan>  work.</text>
+<text x="30" y="172" font-size="20" font-weight="bold" fill="#444">2형식</text>
+<rect x="110" y="136" width="90" height="52" rx="10" fill="#5B6B7A"/>
+<text x="155.0" y="169" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">S</tspan>  She</text>
+<rect x="210" y="136" width="90" height="52" rx="10" fill="#2E9E5B"/>
+<text x="255.0" y="169" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">V</tspan>  is</text>
+<rect x="310" y="136" width="184" height="52" rx="10" fill="#E8833A"/>
+<text x="402.0" y="169" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">C</tspan>  a doctor.</text>
+<text x="30" y="238" font-size="20" font-weight="bold" fill="#444">3형식</text>
+<rect x="110" y="202" width="90" height="52" rx="10" fill="#5B6B7A"/>
+<text x="155.0" y="235" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">S</tspan>  I</text>
+<rect x="210" y="202" width="120" height="52" rx="10" fill="#2E9E5B"/>
+<text x="270.0" y="235" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">V</tspan>  drink</text>
+<rect x="340" y="202" width="152" height="52" rx="10" fill="#3D7BD9"/>
+<text x="416.0" y="235" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">O</tspan>  coffee.</text>
+<text x="30" y="304" font-size="20" font-weight="bold" fill="#444">4형식</text>
+<rect x="110" y="268" width="152" height="52" rx="10" fill="#5B6B7A"/>
+<text x="186.0" y="301" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">S</tspan>  My boss</text>
+<rect x="272" y="268" width="104" height="52" rx="10" fill="#2E9E5B"/>
+<text x="324.0" y="301" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">V</tspan>  gave</text>
+<rect x="386" y="268" width="90" height="52" rx="10" fill="#3D7BD9"/>
+<text x="431.0" y="301" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">O</tspan>  me</text>
+<rect x="486" y="268" width="152" height="52" rx="10" fill="#3D7BD9"/>
+<text x="562.0" y="301" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">O</tspan>  a gift.</text>
+<text x="30" y="370" font-size="20" font-weight="bold" fill="#444">5형식</text>
+<rect x="110" y="334" width="168" height="52" rx="10" fill="#5B6B7A"/>
+<text x="194.0" y="367" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">S</tspan>  The news</text>
+<rect x="288" y="334" width="104" height="52" rx="10" fill="#2E9E5B"/>
+<text x="340.0" y="367" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">V</tspan>  made</text>
+<rect x="402" y="334" width="90" height="52" rx="10" fill="#3D7BD9"/>
+<text x="447.0" y="367" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">O</tspan>  me</text>
+<rect x="502" y="334" width="136" height="52" rx="10" fill="#E8833A"/>
+<text x="570.0" y="367" text-anchor="middle" font-size="21" fill="#FFF"><tspan font-weight="bold">C</tspan>  happy.</text>
+<rect x="110" y="420" width="22" height="22" rx="4" fill="#5B6B7A"/><text x="140" y="438" font-size="19" fill="#333">S 주어</text>
+<rect x="260" y="420" width="22" height="22" rx="4" fill="#2E9E5B"/><text x="290" y="438" font-size="19" fill="#333">V 동사</text>
+<rect x="410" y="420" width="22" height="22" rx="4" fill="#E8833A"/><text x="440" y="438" font-size="19" fill="#333">C 보어</text>
+<rect x="560" y="420" width="22" height="22" rx="4" fill="#3D7BD9"/><text x="590" y="438" font-size="19" fill="#333">O 목적어</text>
+</svg>

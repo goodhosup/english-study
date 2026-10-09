@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<rect width="800" height="420" fill="#F4FBF6"/>
+<text x="400" y="50" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">모음의 이름과 짧은 소리</text>
+<text x="40" y="215" font-size="18" fill="#555">이름</text><text x="40" y="280" font-size="18" fill="#555">소리</text>
+<rect x="95" y="80" width="120" height="300" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="155" y="160" text-anchor="middle" font-size="64" font-weight="bold" fill="#2E9E5B">A</text>
+<text x="155" y="215" text-anchor="middle" font-size="22" fill="#777">에이</text>
+<rect x="115" y="245" width="80" height="50" rx="10" fill="#2E9E5B"/>
+<text x="155" y="280" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFF">애</text>
+<text x="155" y="345" text-anchor="middle" font-size="24" fill="#222"><tspan font-weight="bold" fill="#2E9E5B">a</tspan>pple</text>
+<rect x="235" y="80" width="120" height="300" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="295" y="160" text-anchor="middle" font-size="64" font-weight="bold" fill="#2E9E5B">E</text>
+<text x="295" y="215" text-anchor="middle" font-size="22" fill="#777">이</text>
+<rect x="255" y="245" width="80" height="50" rx="10" fill="#2E9E5B"/>
+<text x="295" y="280" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFF">에</text>
+<text x="295" y="345" text-anchor="middle" font-size="24" fill="#222"><tspan font-weight="bold" fill="#2E9E5B">e</tspan>gg</text>
+<rect x="375" y="80" width="120" height="300" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="435" y="160" text-anchor="middle" font-size="64" font-weight="bold" fill="#2E9E5B">I</text>
+<text x="435" y="215" text-anchor="middle" font-size="22" fill="#777">아이</text>
+<rect x="395" y="245" width="80" height="50" rx="10" fill="#2E9E5B"/>
+<text x="435" y="280" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFF">이</text>
+<text x="435" y="345" text-anchor="middle" font-size="24" fill="#222">s<tspan font-weight="bold" fill="#2E9E5B">i</tspan>t</text>
+<rect x="515" y="80" width="120" height="300" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="575" y="160" text-anchor="middle" font-size="64" font-weight="bold" fill="#2E9E5B">O</text>
+<text x="575" y="215" text-anchor="middle" font-size="22" fill="#777">오우</text>
+<rect x="535" y="245" width="80" height="50" rx="10" fill="#2E9E5B"/>
+<text x="575" y="280" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFF">아</text>
+<text x="575" y="345" text-anchor="middle" font-size="24" fill="#222">h<tspan font-weight="bold" fill="#2E9E5B">o</tspan>t</text>
+<rect x="655" y="80" width="120" height="300" rx="16" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<text x="715" y="160" text-anchor="middle" font-size="64" font-weight="bold" fill="#2E9E5B">U</text>
+<text x="715" y="215" text-anchor="middle" font-size="22" fill="#777">유</text>
+<rect x="675" y="245" width="80" height="50" rx="10" fill="#2E9E5B"/>
+<text x="715" y="280" text-anchor="middle" font-size="26" font-weight="bold" fill="#FFF">어</text>
+<text x="715" y="345" text-anchor="middle" font-size="24" fill="#222">c<tspan font-weight="bold" fill="#2E9E5B">u</tspan>p</text>
+</svg>
