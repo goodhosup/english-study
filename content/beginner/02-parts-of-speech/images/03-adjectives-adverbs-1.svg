@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="440" fill="#F4FBF6"/>
+<text x="400" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">꾸며 주는 대상이 달라요</text>
+<text x="200" y="110" text-anchor="middle" font-size="24" font-weight="bold" fill="#E8833A">형용사 → 명사</text>
+<text x="600" y="110" text-anchor="middle" font-size="24" font-weight="bold" fill="#3D7BD9">부사 → 동사</text>
+<line x1="400" y1="85" x2="400" y2="380" stroke="#CCC" stroke-width="2" stroke-dasharray="6 6"/>
+<rect x="50" y="220" width="140" height="64" rx="12" fill="#E8833A"/><text x="120.0" y="260.0" text-anchor="middle" font-size="26" fill="#FFF" font-weight="bold">quick</text>
+<rect x="210" y="220" width="150" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="285.0" y="260.0" text-anchor="middle" font-size="26" fill="#222" font-weight="bold">lunch</text>
+<path d="M120 215 C120 160, 285 160, 285 210" fill="none" stroke="#E8833A" stroke-width="4" marker-end="url(#a)"/>
+<text x="205" y="330" text-anchor="middle" font-size="22" fill="#333">a quick lunch</text>
+<text x="205" y="360" text-anchor="middle" font-size="19" fill="#666">빠른 점심</text>
+<rect x="440" y="220" width="140" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="510.0" y="260.0" text-anchor="middle" font-size="26" fill="#222" font-weight="bold">eat</text>
+<rect x="600" y="220" width="160" height="64" rx="12" fill="#3D7BD9"/><text x="680.0" y="260.0" text-anchor="middle" font-size="26" fill="#FFF" font-weight="bold">quickly</text>
+<path d="M680 215 C680 160, 510 160, 510 210" fill="none" stroke="#3D7BD9" stroke-width="4" marker-end="url(#a)"/>
+<text x="600" y="330" text-anchor="middle" font-size="22" fill="#333">eat quickly</text>
+<text x="600" y="360" text-anchor="middle" font-size="19" fill="#666">빨리 먹다</text>
+<text x="400" y="410" text-anchor="middle" font-size="20" fill="#444">형용사 + <tspan fill="#3D7BD9" font-weight="bold">ly</tspan> = 부사  (quick → quick<tspan fill="#3D7BD9" font-weight="bold">ly</tspan>, slow → slow<tspan fill="#3D7BD9" font-weight="bold">ly</tspan>)</text>
+</svg>

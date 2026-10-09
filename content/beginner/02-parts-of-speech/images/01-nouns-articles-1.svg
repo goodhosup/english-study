@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="510" fill="#F4FBF6"/>
+<text x="400" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">a, an, the 고르는 순서</text>
+<rect x="300" y="80" width="200" height="70" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/><text x="400.0" y="123.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">명사가 나오면</text>
+<line x1="400" y1="150" x2="400" y2="185" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="240" y="190" width="320" height="70" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/><text x="400.0" y="233.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">듣는 사람도 아는 그것?</text>
+<line x1="560" y1="225" x2="620" y2="225" stroke="#555" stroke-width="3" marker-end="url(#a)"/><text x="590" y="212" text-anchor="middle" font-size="18" fill="#555">예</text>
+<rect x="625" y="190" width="140" height="70" rx="12" fill="#2E9E5B"/><text x="695.0" y="233.0" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">the</text>
+<line x1="400" y1="260" x2="400" y2="295" stroke="#555" stroke-width="3" marker-end="url(#a)"/><text x="440" y="283" text-anchor="middle" font-size="18" fill="#555">아니요</text>
+<rect x="240" y="300" width="320" height="70" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/><text x="400.0" y="343.0" text-anchor="middle" font-size="22" fill="#222" font-weight="bold">셀 수 있는 하나?</text>
+<line x1="240" y1="335" x2="180" y2="335" stroke="#555" stroke-width="3" marker-end="url(#a)"/><text x="210" y="322" text-anchor="middle" font-size="18" fill="#555">아니요</text>
+<rect x="30" y="300" width="145" height="70" rx="12" fill="#5B6B7A"/><text x="102.5" y="329.0" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">관사 없음</text><text x="102.5" y="357.0" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">(some)</text>
+<line x1="400" y1="370" x2="400" y2="400" stroke="#555" stroke-width="3" marker-end="url(#a)"/><text x="425" y="392" text-anchor="middle" font-size="18" fill="#555">예</text>
+<rect x="150" y="405" width="230" height="60" rx="12" fill="#E8833A"/><text x="265.0" y="443.0" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">자음 소리 → a</text>
+<rect x="420" y="405" width="230" height="60" rx="12" fill="#3D7BD9"/><text x="535.0" y="443.0" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">모음 소리 → an</text>
+<text x="265" y="492" text-anchor="middle" font-size="18" fill="#444">a book, a university</text>
+<text x="535" y="492" text-anchor="middle" font-size="18" fill="#444">an apple, an hour</text>
+</svg>

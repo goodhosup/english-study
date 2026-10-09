@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="515" viewBox="0 0 800 515" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="515" fill="#F4FBF6"/>
+<text x="400" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">in → on → at : 넓은 곳에서 좁은 곳으로</text>
+<text x="200" y="100" text-anchor="middle" font-size="24" font-weight="bold" fill="#333">장소</text>
+<text x="600" y="100" text-anchor="middle" font-size="24" font-weight="bold" fill="#333">시간</text>
+<rect x="30.0" y="120" width="340" height="290" rx="18" fill="#DDF2E4" stroke="#2E9E5B" stroke-width="3"/>
+<text x="200" y="150" text-anchor="middle" font-size="24" font-weight="bold" fill="#2E9E5B">in</text>
+<rect x="75.0" y="160" width="250" height="210" rx="18" fill="#DCE8FA" stroke="#3D7BD9" stroke-width="3"/>
+<text x="200" y="190" text-anchor="middle" font-size="24" font-weight="bold" fill="#3D7BD9">on</text>
+<rect x="120.0" y="200" width="160" height="130" rx="18" fill="#FCE6D5" stroke="#E8833A" stroke-width="3"/>
+<text x="200" y="230" text-anchor="middle" font-size="24" font-weight="bold" fill="#E8833A">at</text>
+<circle cx="200" cy="260" r="9" fill="#E8833A"/>
+<text x="200" y="445" text-anchor="middle" font-size="17" fill="#444">in Seoul, the room</text>
+<text x="200" y="470" text-anchor="middle" font-size="17" fill="#444">on the table, the wall</text>
+<text x="200" y="495" text-anchor="middle" font-size="17" fill="#444">at the door</text>
+<rect x="430.0" y="120" width="340" height="290" rx="18" fill="#DDF2E4" stroke="#2E9E5B" stroke-width="3"/>
+<text x="600" y="150" text-anchor="middle" font-size="24" font-weight="bold" fill="#2E9E5B">in</text>
+<rect x="475.0" y="160" width="250" height="210" rx="18" fill="#DCE8FA" stroke="#3D7BD9" stroke-width="3"/>
+<text x="600" y="190" text-anchor="middle" font-size="24" font-weight="bold" fill="#3D7BD9">on</text>
+<rect x="520.0" y="200" width="160" height="130" rx="18" fill="#FCE6D5" stroke="#E8833A" stroke-width="3"/>
+<text x="600" y="230" text-anchor="middle" font-size="24" font-weight="bold" fill="#E8833A">at</text>
+<circle cx="600" cy="260" r="9" fill="#E8833A"/>
+<text x="600" y="445" text-anchor="middle" font-size="17" fill="#444">in October, 2026</text>
+<text x="600" y="470" text-anchor="middle" font-size="17" fill="#444">on Monday, May 5</text>
+<text x="600" y="495" text-anchor="middle" font-size="17" fill="#444">at 7 o'clock</text>
+</svg>
