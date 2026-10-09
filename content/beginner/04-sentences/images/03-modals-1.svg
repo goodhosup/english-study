@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="420" fill="#F4FBF6"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">조동사의 강도</text>
+<rect x="80" y="210" width="640" height="18" rx="9" fill="#DDD"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2E9E5B"/><stop offset="0.5" stop-color="#3D7BD9"/><stop offset="1" stop-color="#E05252"/></linearGradient></defs>
+<rect x="80" y="210" width="640" height="18" rx="9" fill="url(#g)"/>
+<text x="80" y="265" text-anchor="start" font-size="18" fill="#777">약함</text>
+<text x="720" y="265" text-anchor="end" font-size="18" fill="#777">강함</text>
+<circle cx="160" cy="219" r="20" fill="#FFF" stroke="#2E9E5B" stroke-width="5"/>
+<rect x="55" y="85" width="210" height="100" rx="12" fill="#2E9E5B"/><text x="160.0" y="128.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">can</text><text x="160.0" y="156.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">할 수 있다 / 해도 된다</text>
+<rect x="55" y="290" width="210" height="56" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/><text x="160.0" y="325.2" text-anchor="middle" font-size="20" fill="#222">I can swim.</text>
+<circle cx="400" cy="219" r="20" fill="#FFF" stroke="#3D7BD9" stroke-width="5"/>
+<rect x="295" y="85" width="210" height="100" rx="12" fill="#3D7BD9"/><text x="400.0" y="128.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">should</text><text x="400.0" y="156.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">하는 게 좋다</text>
+<rect x="295" y="290" width="210" height="56" rx="12" fill="#FFF" stroke="#3D7BD9" stroke-width="3"/><text x="400.0" y="325.2" text-anchor="middle" font-size="20" fill="#222">You should rest.</text>
+<circle cx="640" cy="219" r="20" fill="#FFF" stroke="#E05252" stroke-width="5"/>
+<rect x="535" y="85" width="210" height="100" rx="12" fill="#E05252"/><text x="640.0" y="128.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">must</text><text x="640.0" y="156.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">반드시 해야 한다</text>
+<rect x="535" y="290" width="210" height="56" rx="12" fill="#FFF" stroke="#E05252" stroke-width="3"/><text x="640.0" y="325.2" text-anchor="middle" font-size="20" fill="#222">You must stop.</text>
+<text x="400" y="395" text-anchor="middle" font-size="20" fill="#333">조동사 + 동사원형   (He can<tspan fill="#E05252">s</tspan> ❌ → He can ✅)</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="445" viewBox="0 0 800 445" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="445" fill="#F4FBF6"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">묻기와 부정하기, 동사를 먼저 보세요</text>
+<text x="150" y="100" text-anchor="middle" font-size="20" fill="#555" font-weight="bold">동사</text>
+<text x="400" y="100" text-anchor="middle" font-size="20" fill="#555" font-weight="bold">의문문</text>
+<text x="650" y="100" text-anchor="middle" font-size="20" fill="#555" font-weight="bold">부정문</text>
+<rect x="40" y="120" width="200" height="78" rx="12" fill="#2E9E5B"/><text x="140.0" y="153.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">be동사</text><text x="140.0" y="179.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">She is busy.</text>
+<rect x="290" y="120" width="220" height="78" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/><text x="400.0" y="166.56" text-anchor="middle" font-size="21" fill="#222" font-weight="bold">Is she busy?</text>
+<rect x="540" y="120" width="220" height="78" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/><text x="650.0" y="166.56" text-anchor="middle" font-size="21" fill="#222" font-weight="bold">She isn't busy.</text>
+<rect x="40" y="215" width="200" height="78" rx="12" fill="#3D7BD9"/><text x="140.0" y="248.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">일반동사</text><text x="140.0" y="274.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">You like it.</text>
+<rect x="290" y="215" width="220" height="78" rx="12" fill="#FFF" stroke="#3D7BD9" stroke-width="3"/><text x="400.0" y="261.56" text-anchor="middle" font-size="21" fill="#222" font-weight="bold">Do you like it?</text>
+<rect x="540" y="215" width="220" height="78" rx="12" fill="#FFF" stroke="#3D7BD9" stroke-width="3"/><text x="650.0" y="261.56" text-anchor="middle" font-size="21" fill="#222" font-weight="bold">You don't like it.</text>
+<rect x="40" y="310" width="200" height="78" rx="12" fill="#E8833A"/><text x="140.0" y="343.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">조동사</text><text x="140.0" y="369.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">I can swim.</text>
+<rect x="290" y="310" width="220" height="78" rx="12" fill="#FFF" stroke="#E8833A" stroke-width="3"/><text x="400.0" y="356.56" text-anchor="middle" font-size="21" fill="#222" font-weight="bold">Can I swim?</text>
+<rect x="540" y="310" width="220" height="78" rx="12" fill="#FFF" stroke="#E8833A" stroke-width="3"/><text x="650.0" y="356.56" text-anchor="middle" font-size="21" fill="#222" font-weight="bold">I can't swim.</text>
+<text x="400" y="420" text-anchor="middle" font-size="21" fill="#333" font-weight="bold">일반동사만 Do / Does / Did 를 빌려 와요</text>
+</svg>

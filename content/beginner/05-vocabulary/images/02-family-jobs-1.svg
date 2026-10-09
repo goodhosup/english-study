@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="450" fill="#F4FBF6"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">가족 관계</text>
+<line x1="300" y1="112" x2="500" y2="112" stroke="#999" stroke-width="3"/>
+<line x1="400" y1="112" x2="400" y2="170" stroke="#999" stroke-width="3"/>
+<line x1="120" y1="170" x2="460" y2="170" stroke="#999" stroke-width="3"/>
+<line x1="120" y1="170" x2="120" y2="190" stroke="#999" stroke-width="3"/>
+<line x1="290" y1="170" x2="290" y2="190" stroke="#999" stroke-width="3"/>
+<line x1="460" y1="170" x2="460" y2="190" stroke="#999" stroke-width="3"/>
+<rect x="230" y="80" width="140" height="64" rx="12" fill="#3D7BD9"/><text x="300.0" y="106.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">father</text><text x="300.0" y="131.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">아버지</text>
+<rect x="430" y="80" width="140" height="64" rx="12" fill="#E8833A"/><text x="500.0" y="106.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">mother</text><text x="500.0" y="131.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">어머니</text>
+<rect x="50" y="190" width="140" height="64" rx="12" fill="#3D7BD9"/><text x="120.0" y="216.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">brother</text><text x="120.0" y="241.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">형제</text>
+<rect x="220" y="190" width="140" height="64" rx="12" fill="#E8833A"/><text x="290.0" y="216.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">sister</text><text x="290.0" y="241.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">자매</text>
+<rect x="390" y="190" width="140" height="64" rx="12" fill="#2E9E5B"/><text x="460.0" y="215.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">me</text><text x="460.0" y="243.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">나</text>
+<line x1="530" y1="222" x2="610" y2="222" stroke="#999" stroke-width="3"/>
+<rect x="610" y="190" width="140" height="64" rx="12" fill="#7B4FC9"/><text x="680.0" y="216.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">wife</text><text x="680.0" y="241.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">아내</text>
+<line x1="570" y1="222" x2="570" y2="300" stroke="#999" stroke-width="3"/>
+<line x1="480" y1="300" x2="660" y2="300" stroke="#999" stroke-width="3"/>
+<line x1="480" y1="300" x2="480" y2="320" stroke="#999" stroke-width="3"/>
+<line x1="660" y1="300" x2="660" y2="320" stroke="#999" stroke-width="3"/>
+<rect x="410" y="320" width="140" height="64" rx="12" fill="#3D7BD9"/><text x="480.0" y="346.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">son</text><text x="480.0" y="371.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">아들</text>
+<rect x="590" y="320" width="140" height="64" rx="12" fill="#E8833A"/><text x="660.0" y="346.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">daughter</text><text x="660.0" y="371.34" text-anchor="middle" font-size="19" fill="#FFF" font-weight="bold">딸</text>
+<text x="150" y="95" text-anchor="middle" font-size="20" fill="#555" font-weight="bold">parents</text>
+<text x="150" y="120" text-anchor="middle" font-size="17" fill="#777">부모님</text>
+<text x="400" y="425" text-anchor="middle" font-size="20" fill="#333">brothers + sisters = siblings (형제자매)</text>
+</svg>

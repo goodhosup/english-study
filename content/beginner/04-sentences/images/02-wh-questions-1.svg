@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="440" fill="#F4FBF6"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F5F3A">여섯 가지 의문사</text>
+<rect x="55" y="85" width="210" height="130" rx="12" fill="#2E9E5B"/><text x="160.0" y="142.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">Who</text><text x="160.0" y="178.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">누구</text>
+<rect x="295" y="85" width="210" height="130" rx="12" fill="#3D7BD9"/><text x="400.0" y="142.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">What</text><text x="400.0" y="178.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">무엇</text>
+<rect x="535" y="85" width="210" height="130" rx="12" fill="#E8833A"/><text x="640.0" y="142.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">Where</text><text x="640.0" y="178.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">어디</text>
+<rect x="55" y="235" width="210" height="130" rx="12" fill="#7B4FC9"/><text x="160.0" y="292.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">When</text><text x="160.0" y="328.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">언제</text>
+<rect x="295" y="235" width="210" height="130" rx="12" fill="#E05252"/><text x="400.0" y="292.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">Why</text><text x="400.0" y="328.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">왜</text>
+<rect x="535" y="235" width="210" height="130" rx="12" fill="#5B6B7A"/><text x="640.0" y="292.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">How</text><text x="640.0" y="328.8" text-anchor="middle" font-size="30" fill="#FFF" font-weight="bold">어떻게</text>
+<text x="400" y="415" text-anchor="middle" font-size="22" fill="#333" font-weight="bold">의문사 + 의문문 어순:  Where  do you  live?</text>
+</svg>
