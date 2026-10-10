@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="500" fill="#FFF6EE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#7A4A22">공손함의 사다리</text>
+<rect x="60" y="80" width="420" height="50" rx="12" fill="#F7D2B3"/><text x="270.0" y="112.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">Send me the file.</text>
+<text x="60" y="152" text-anchor="start" font-size="16" fill="#444">명령: 친구·가족 사이도 퉁명스럽게 들릴 수 있음</text>
+<rect x="60" y="160" width="460" height="50" rx="12" fill="#F2B583"/><text x="290.0" y="192.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">Can you send me the file?</text>
+<text x="60" y="232" text-anchor="start" font-size="16" fill="#444">가벼운 부탁: 친한 동료</text>
+<rect x="60" y="240" width="500" height="50" rx="12" fill="#EC9B5B"/><text x="310.0" y="272.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">Could you send me the file?</text>
+<text x="60" y="312" text-anchor="start" font-size="16" fill="#444">공손한 부탁: 업무 기본</text>
+<rect x="60" y="320" width="540" height="50" rx="12" fill="#E8833A"/><text x="330.0" y="352.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">Would you mind sending me the file?</text>
+<text x="60" y="392" text-anchor="start" font-size="16" fill="#444">더 공손함: 윗사람, 고객</text>
+<rect x="60" y="400" width="580" height="50" rx="12" fill="#C9682A"/><text x="350.0" y="432.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">I was wondering if you could send me the file.</text>
+<text x="60" y="472" text-anchor="start" font-size="16" fill="#444">아주 조심스러움: 큰 부탁</text>
+<line x1="30" y1="90" x2="30" y2="460" stroke="#7A4A22" stroke-width="4" marker-end="url(#a)"/>
+<text x="770" y="484" text-anchor="end" font-size="17" fill="#7A4A22" font-weight="bold">아래로 갈수록 더 공손하다</text>
+</svg>

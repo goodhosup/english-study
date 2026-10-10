@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="450" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">관용어: 글자 뜻과 실제 뜻</text>
+<text x="225" y="100" text-anchor="middle" font-size="22" fill="#777" font-weight="bold">글자 그대로</text>
+<text x="575" y="100" text-anchor="middle" font-size="22" fill="#4B2A86" font-weight="bold">실제 뜻</text>
+<rect x="250" y="120" width="300" height="34" rx="12" fill="#4B2A86"/><text x="400.0" y="144.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">break the ice</text>
+<rect x="60" y="162" width="330" height="44" rx="12" fill="#EEE"/><text x="225.0" y="191.2" text-anchor="middle" font-size="20" fill="#777">✗ 얼음을 깨다</text>
+<rect x="410" y="162" width="330" height="44" rx="12" fill="#7B4FC9"/><text x="575.0" y="191.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">✓ 어색한 분위기를 풀다</text>
+<rect x="250" y="215" width="300" height="34" rx="12" fill="#4B2A86"/><text x="400.0" y="239.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">under the weather</text>
+<rect x="60" y="257" width="330" height="44" rx="12" fill="#EEE"/><text x="225.0" y="286.2" text-anchor="middle" font-size="20" fill="#777">✗ 날씨 아래에</text>
+<rect x="410" y="257" width="330" height="44" rx="12" fill="#7B4FC9"/><text x="575.0" y="286.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">✓ 몸이 좀 안 좋은</text>
+<rect x="250" y="310" width="300" height="34" rx="12" fill="#4B2A86"/><text x="400.0" y="334.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">a piece of cake</text>
+<rect x="60" y="352" width="330" height="44" rx="12" fill="#EEE"/><text x="225.0" y="381.2" text-anchor="middle" font-size="20" fill="#777">✗ 케이크 한 조각</text>
+<rect x="410" y="352" width="330" height="44" rx="12" fill="#7B4FC9"/><text x="575.0" y="381.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">✓ 아주 쉬운 일</text>
+<text x="400" y="425" text-anchor="middle" font-size="20" fill="#333" font-weight="bold">관용어는 단어를 더하지 말고 덩어리째 외운다</text>
+</svg>

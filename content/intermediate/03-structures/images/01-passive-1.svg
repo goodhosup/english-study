@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="425" viewBox="0 0 800 425" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="425" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">능동태를 수동태로 바꾸기</text>
+<text x="40" y="128" text-anchor="start" font-size="22" fill="#333" font-weight="bold">능동</text>
+<text x="40" y="318" text-anchor="start" font-size="22" fill="#333" font-weight="bold">수동</text>
+<rect x="150" y="95" width="231.60000000000002" height="56" rx="12" fill="#E8833A"/><text x="265.8" y="130.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">A famous architect</text>
+<rect x="395.6" y="95" width="119.60000000000001" height="56" rx="12" fill="#FFF" stroke="#BBB" stroke-width="3"/><text x="455.40000000000003" y="130.2" text-anchor="middle" font-size="20" fill="#333">designed</text>
+<rect x="529.2" y="95" width="142.0" height="56" rx="12" fill="#2F6FDB"/><text x="600.2" y="130.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">the museum</text>
+<rect x="150" y="285" width="142.0" height="56" rx="12" fill="#2F6FDB"/><text x="221.0" y="320.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">The museum</text>
+<rect x="306.0" y="285" width="164.4" height="56" rx="12" fill="#1C4189"/><text x="388.2" y="320.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">was designed</text>
+<rect x="484.4" y="285" width="265.20000000000005" height="56" rx="12" fill="#E8833A"/><text x="617.0" y="320.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">by a famous architect</text>
+<line x1="600.2" y1="155" x2="221.0" y2="278" stroke="#2F6FDB" stroke-width="3" marker-end="url(#a)"/>
+<line x1="265.8" y1="155" x2="617.0" y2="278" stroke="#E8833A" stroke-width="3" marker-end="url(#a)"/>
+<text x="400" y="395" text-anchor="middle" font-size="19" fill="#444">be + 과거분사 · 행동한 사람은 by 뒤로 (중요하지 않으면 생략)</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="410" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">It is ... that 강조구문</text>
+<text x="50" y="110" text-anchor="start" font-size="22" fill="#333" font-weight="bold">평서문</text>
+<rect x="50" y="125" width="150" height="60" rx="12" fill="#7B4FC9"/><text x="125.0" y="163.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">Sarah</text>
+<rect x="215" y="125" width="130" height="60" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="280.0" y="163.64" text-anchor="middle" font-size="24" fill="#222">found</text>
+<rect x="360" y="125" width="200" height="60" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="460.0" y="163.64" text-anchor="middle" font-size="24" fill="#222">the error.</text>
+<text x="50" y="245" text-anchor="start" font-size="22" fill="#333" font-weight="bold">강조구문</text>
+<rect x="50" y="260" width="140" height="60" rx="12" fill="#E8833A"/><text x="120.0" y="298.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">It was</text>
+<rect x="205" y="260" width="150" height="60" rx="12" fill="#7B4FC9"/><text x="280.0" y="298.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">Sarah</text>
+<rect x="370" y="260" width="120" height="60" rx="12" fill="#E8833A"/><text x="430.0" y="298.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">who</text>
+<rect x="505" y="260" width="245" height="60" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="627.5" y="298.64" text-anchor="middle" font-size="24" fill="#222">found the error.</text>
+<path d="M125 190 C125 225, 280 220, 280 255" fill="none" stroke="#7B4FC9" stroke-width="4" stroke-dasharray="8 6" marker-end="url(#a)"/>
+<rect x="50" y="355" width="22" height="22" rx="4" fill="#7B4FC9"/>
+<text x="82" y="373" text-anchor="start" font-size="19" fill="#333">강조하고 싶은 말</text>
+<rect x="300" y="355" width="22" height="22" rx="4" fill="#E8833A"/>
+<text x="332" y="373" text-anchor="start" font-size="19" fill="#333">틀: It was ... who (that) ...</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="450" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">부사절을 분사구문으로 줄이기</text>
+<rect x="40" y="85" width="470" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="275.0" y="124.92" text-anchor="middle" font-size="22" fill="#222">After she had finished the report,</text>
+<rect x="525" y="85" width="235" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="642.5" y="124.92" text-anchor="middle" font-size="22" fill="#222">she went home.</text>
+<rect x="60" y="180" width="220" height="54" rx="12" fill="#E8833A"/><text x="170.0" y="214.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">① 접속사 빼기</text>
+<rect x="290" y="180" width="220" height="54" rx="12" fill="#E8833A"/><text x="400.0" y="214.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">② 같은 주어 빼기</text>
+<rect x="520" y="180" width="240" height="54" rx="12" fill="#E8833A"/><text x="640.0" y="214.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">③ 동사를 -ing로</text>
+<text x="170" y="262" text-anchor="middle" font-size="18" fill="#555">After → 삭제</text>
+<text x="400" y="262" text-anchor="middle" font-size="18" fill="#555">she → 삭제</text>
+<text x="640" y="262" text-anchor="middle" font-size="18" fill="#555">had finished → having finished</text>
+<line x1="400" y1="280" x2="400" y2="315" stroke="#555" stroke-width="4" marker-end="url(#a)"/>
+<rect x="40" y="325" width="470" height="64" rx="12" fill="#7B4FC9"/><text x="275.0" y="364.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">Having finished the report,</text>
+<rect x="525" y="325" width="235" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="642.5" y="364.92" text-anchor="middle" font-size="22" fill="#222">she went home.</text>
+<text x="400" y="425" text-anchor="middle" font-size="20" fill="#4B2A86" font-weight="bold">Having p.p. = 주절보다 먼저 일어난 일</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="470" fill="#FFF6EE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#7A4A22">더 자연스럽게 바꿔 말하기</text>
+<text x="200" y="95" text-anchor="middle" font-size="21" fill="#5B6B7A" font-weight="bold">교과서식 표현</text>
+<text x="600" y="95" text-anchor="middle" font-size="21" fill="#7A4A22" font-weight="bold">원어민이 자주 쓰는 표현</text>
+<rect x="40" y="115" width="320" height="54" rx="12" fill="#FFFFFF" stroke="#C9B8A8" stroke-width="3"/><text x="200.0" y="149.2" text-anchor="middle" font-size="20" fill="#555">I am very hungry.</text>
+<line x1="370" y1="142" x2="430" y2="142" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="440" y="115" width="320" height="54" rx="12" fill="#E8833A"/><text x="600.0" y="149.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">I'm starving.</text>
+<rect x="40" y="181" width="320" height="54" rx="12" fill="#FFFFFF" stroke="#C9B8A8" stroke-width="3"/><text x="200.0" y="215.2" text-anchor="middle" font-size="20" fill="#555">I understand.</text>
+<line x1="370" y1="208" x2="430" y2="208" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="440" y="181" width="320" height="54" rx="12" fill="#E8833A"/><text x="600.0" y="215.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">Got it.</text>
+<rect x="40" y="247" width="320" height="54" rx="12" fill="#FFFFFF" stroke="#C9B8A8" stroke-width="3"/><text x="200.0" y="281.2" text-anchor="middle" font-size="20" fill="#555">I am very tired.</text>
+<line x1="370" y1="274" x2="430" y2="274" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="440" y="247" width="320" height="54" rx="12" fill="#E8833A"/><text x="600.0" y="281.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">I'm exhausted.</text>
+<rect x="40" y="313" width="320" height="54" rx="12" fill="#FFFFFF" stroke="#C9B8A8" stroke-width="3"/><text x="200.0" y="347.2" text-anchor="middle" font-size="20" fill="#555">It is not important.</text>
+<line x1="370" y1="340" x2="430" y2="340" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="440" y="313" width="320" height="54" rx="12" fill="#E8833A"/><text x="600.0" y="347.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">No big deal.</text>
+<rect x="40" y="379" width="320" height="54" rx="12" fill="#FFFFFF" stroke="#C9B8A8" stroke-width="3"/><text x="200.0" y="413.2" text-anchor="middle" font-size="20" fill="#555">Let's begin.</text>
+<line x1="370" y1="406" x2="430" y2="406" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="440" y="379" width="320" height="54" rx="12" fill="#E8833A"/><text x="600.0" y="413.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">Let's get started.</text>
+</svg>

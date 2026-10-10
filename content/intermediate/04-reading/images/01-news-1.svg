@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="440" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">기사는 중요한 정보부터</text>
+<rect x="90.0" y="80" width="620" height="54" rx="12" fill="#1C4189"/><text x="400.0" y="114.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">헤드라인: 무슨 일인가?</text>
+<rect x="140.0" y="144" width="520" height="54" rx="12" fill="#2556B0"/><text x="400.0" y="178.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">리드: 누가 · 언제 · 어디서 · 무엇을</text>
+<rect x="190.0" y="208" width="420" height="54" rx="12" fill="#2F6FDB"/><text x="400.0" y="242.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">배경: 왜 이 일이 생겼나?</text>
+<rect x="240.0" y="272" width="320" height="54" rx="12" fill="#5E8FE0"/><text x="400.0" y="306.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">세부 내용 · 인용</text>
+<rect x="290.0" y="336" width="220" height="54" rx="12" fill="#8FB0EA"/><text x="400.0" y="370.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">전망</text>
+<text x="50" y="98" text-anchor="middle" font-size="16" fill="#666">중요</text>
+<line x1="50" y1="110" x2="50" y2="390" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<text x="50" y="420" text-anchor="middle" font-size="16" fill="#666">덜 중요</text>
+<text x="750" y="420" text-anchor="end" font-size="17" fill="#444">앞부분만 읽어도 핵심을 알 수 있다</text>
+</svg>

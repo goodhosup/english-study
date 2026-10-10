@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="425" viewBox="0 0 800 425" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="425" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">관계대명사로 두 문장 잇기</text>
+<rect x="60" y="85" width="300" height="60" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="210.0" y="122.56" text-anchor="middle" font-size="21" fill="#222">I have a friend.</text>
+<rect x="440" y="85" width="300" height="60" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="590.0" y="122.56" text-anchor="middle" font-size="21" fill="#222">She lives in Paris.</text>
+<line x1="210" y1="150" x2="290" y2="225" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<line x1="590" y1="150" x2="510" y2="225" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<text x="400" y="195" text-anchor="middle" font-size="19" fill="#2F6FDB" font-weight="bold">She → who</text>
+<rect x="60" y="240" width="240" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/><text x="180.0" y="279.56" text-anchor="middle" font-size="21" fill="#222">I have a friend</text>
+<rect x="312" y="240" width="100" height="64" rx="12" fill="#2F6FDB"/><text x="362.0" y="280.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">who</text>
+<rect x="424" y="240" width="316" height="64" rx="12" fill="#FFF" stroke="#2F6FDB" stroke-width="3"/><text x="582.0" y="279.56" text-anchor="middle" font-size="21" fill="#222">lives in Paris.</text>
+<path d="M362 310 Q 300 370 200 312" fill="none" stroke="#2F6FDB" stroke-width="3" marker-end="url(#a)"/>
+<text x="400" y="395" text-anchor="middle" font-size="19" fill="#444">who 이하가 앞의 a friend를 뒤에서 설명한다 (접속사 + 대명사)</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="310" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">사설의 흐름</text>
+<rect x="20" y="100" width="128" height="90" rx="12" fill="#7B4FC9"/><text x="84.0" y="152.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">쟁점</text>
+<text x="84" y="220" text-anchor="middle" font-size="19" fill="#333" font-weight="bold">Issue</text>
+<line x1="151" y1="145" x2="172" y2="145" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="176" y="100" width="128" height="90" rx="12" fill="#4B2A86"/><text x="240.0" y="152.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">입장</text>
+<text x="240" y="220" text-anchor="middle" font-size="19" fill="#333" font-weight="bold">Stance</text>
+<line x1="307" y1="145" x2="328" y2="145" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="332" y="100" width="128" height="90" rx="12" fill="#7B4FC9"/><text x="396.0" y="152.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">근거</text>
+<text x="396" y="220" text-anchor="middle" font-size="19" fill="#333" font-weight="bold">Evidence</text>
+<line x1="463" y1="145" x2="484" y2="145" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="488" y="100" width="128" height="90" rx="12" fill="#7B4FC9"/><text x="552.0" y="152.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">반론 처리</text>
+<text x="552" y="220" text-anchor="middle" font-size="19" fill="#333" font-weight="bold">Counterpoint</text>
+<line x1="619" y1="145" x2="640" y2="145" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="644" y="100" width="128" height="90" rx="12" fill="#7B4FC9"/><text x="708.0" y="152.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">제안</text>
+<text x="708" y="220" text-anchor="middle" font-size="19" fill="#333" font-weight="bold">Proposal</text>
+<text x="400" y="275" text-anchor="middle" font-size="20" fill="#333">사설에서는 입장(무엇을 원하는가)과 근거(왜)를 먼저 찾는다</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="490" viewBox="0 0 800 490" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="490" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">업무 이메일의 구조</text>
+<rect x="40" y="80" width="420" height="380" rx="14" fill="#FFF" stroke="#7B4FC9" stroke-width="3"/>
+<rect x="40" y="80" width="420" height="36" rx="14" fill="#7B4FC9"/>
+<rect x="40" y="100" width="420" height="16" fill="#7B4FC9"/>
+<text x="250" y="105" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">New Message</text>
+<text x="60" y="150" text-anchor="start" font-size="19" fill="#222" font-weight="bold">Subject: Request to reschedule ...</text>
+<line x1="470" y1="144" x2="505" y2="144" stroke="#BBB" stroke-width="2"/>
+<rect x="510" y="124" width="255" height="40" rx="12" fill="#E6DCF7"/><text x="637.5" y="150.48" text-anchor="middle" font-size="18" fill="#4B2A86" font-weight="bold">제목: 내용과 요청이 보이게</text>
+<text x="60" y="202" text-anchor="start" font-size="19" fill="#222">Dear Ms. Patel,</text>
+<line x1="470" y1="196" x2="505" y2="196" stroke="#BBB" stroke-width="2"/>
+<rect x="510" y="176" width="255" height="40" rx="12" fill="#E6DCF7"/><text x="637.5" y="202.48" text-anchor="middle" font-size="18" fill="#4B2A86" font-weight="bold">인사: Mr./Ms. + 성</text>
+<text x="60" y="254" text-anchor="start" font-size="19" fill="#222">I am writing to ask whether ...</text>
+<line x1="470" y1="248" x2="505" y2="248" stroke="#BBB" stroke-width="2"/>
+<rect x="510" y="228" width="255" height="40" rx="12" fill="#E6DCF7"/><text x="637.5" y="254.48" text-anchor="middle" font-size="18" fill="#4B2A86" font-weight="bold">목적: 첫 줄에 바로</text>
+<text x="60" y="306" text-anchor="start" font-size="19" fill="#222">Unfortunately, the figures ...</text>
+<line x1="470" y1="300" x2="505" y2="300" stroke="#BBB" stroke-width="2"/>
+<rect x="510" y="280" width="255" height="40" rx="12" fill="#E6DCF7"/><text x="637.5" y="306.48" text-anchor="middle" font-size="18" fill="#4B2A86" font-weight="bold">세부 내용: 이유, 사정</text>
+<text x="60" y="358" text-anchor="start" font-size="19" fill="#222">Could you let me know by ...?</text>
+<line x1="470" y1="352" x2="505" y2="352" stroke="#BBB" stroke-width="2"/>
+<rect x="510" y="332" width="255" height="40" rx="12" fill="#E6DCF7"/><text x="637.5" y="358.48" text-anchor="middle" font-size="18" fill="#4B2A86" font-weight="bold">요청: 기한을 넣어서</text>
+<text x="60" y="410" text-anchor="start" font-size="19" fill="#222">Best regards, Daniel Kim</text>
+<line x1="470" y1="404" x2="505" y2="404" stroke="#BBB" stroke-width="2"/>
+<rect x="510" y="384" width="255" height="40" rx="12" fill="#E6DCF7"/><text x="637.5" y="410.48" text-anchor="middle" font-size="18" fill="#4B2A86" font-weight="bold">맺음말</text>
+</svg>

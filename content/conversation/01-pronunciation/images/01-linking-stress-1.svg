@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="470" fill="#FFF6EE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#7A4A22">강세와 억양 한눈에 보기</text>
+<text x="40" y="100" text-anchor="start" font-size="21" fill="#7A4A22" font-weight="bold">① 강세: 내용어는 크고 길게, 기능어는 작고 약하게</text>
+<circle cx="70" cy="160" r="14" fill="#C9B8A8"/>
+<text x="70" y="222" text-anchor="middle" font-size="19" fill="#5B6B7A">I</text>
+<circle cx="140" cy="160" r="30" fill="#E8833A"/>
+<text x="140" y="222" text-anchor="middle" font-size="24" fill="#222" font-weight="bold">WANT</text>
+<circle cx="240" cy="160" r="14" fill="#C9B8A8"/>
+<text x="240" y="222" text-anchor="middle" font-size="19" fill="#5B6B7A">to</text>
+<circle cx="310" cy="160" r="30" fill="#E8833A"/>
+<text x="310" y="222" text-anchor="middle" font-size="24" fill="#222" font-weight="bold">GO</text>
+<circle cx="410" cy="160" r="14" fill="#C9B8A8"/>
+<text x="410" y="222" text-anchor="middle" font-size="19" fill="#5B6B7A">to</text>
+<circle cx="480" cy="160" r="14" fill="#C9B8A8"/>
+<text x="480" y="222" text-anchor="middle" font-size="19" fill="#5B6B7A">the</text>
+<circle cx="550" cy="160" r="30" fill="#E8833A"/>
+<text x="550" y="222" text-anchor="middle" font-size="24" fill="#222" font-weight="bold">PARK</text>
+<text x="40" y="290" text-anchor="start" font-size="21" fill="#7A4A22" font-weight="bold">② 억양: 끝을 올리면 Yes/No 질문, 내리면 평서문·의문사 질문</text>
+<text x="60" y="380" text-anchor="start" font-size="24" fill="#222" font-weight="bold">Are you ready?</text>
+<path d="M60 352 Q170 356 230 344 Q262 336 282 318" fill="none" stroke="#E8833A" stroke-width="5" marker-end="url(#a)"/>
+<text x="170" y="415" text-anchor="middle" font-size="19" fill="#5B6B7A">끝을 올린다 ↗</text>
+<text x="440" y="380" text-anchor="start" font-size="24" fill="#222" font-weight="bold">Where are you going?</text>
+<path d="M440 326 Q560 318 640 328 Q690 336 715 356" fill="none" stroke="#3D7BD9" stroke-width="5" marker-end="url(#a)"/>
+<text x="580" y="415" text-anchor="middle" font-size="19" fill="#5B6B7A">끝을 내린다 ↘</text>
+<line x1="400" y1="320" x2="400" y2="420" stroke="#E0CDBB" stroke-width="2"/>
+</svg>

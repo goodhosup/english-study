@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="430" viewBox="0 0 800 430" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="430" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">단어를 조각으로 나누기</text>
+<rect x="70" y="95" width="130" height="70" rx="12" fill="#E8833A"/><text x="135.0" y="140.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">un</text>
+<text x="135.0" y="200" text-anchor="middle" font-size="21" fill="#333" font-weight="bold">아닌</text>
+<rect x="220" y="95" width="150" height="70" rx="12" fill="#3D7BD9"/><text x="295.0" y="140.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">pre</text>
+<text x="295.0" y="200" text-anchor="middle" font-size="21" fill="#333" font-weight="bold">미리</text>
+<rect x="390" y="95" width="170" height="70" rx="12" fill="#7B4FC9"/><text x="475.0" y="140.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">dict</text>
+<text x="475.0" y="200" text-anchor="middle" font-size="21" fill="#333" font-weight="bold">말하다</text>
+<rect x="580" y="95" width="190" height="70" rx="12" fill="#2E9E5B"/><text x="675.0" y="140.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">able</text>
+<text x="675.0" y="200" text-anchor="middle" font-size="21" fill="#333" font-weight="bold">할 수 있는</text>
+<text x="135" y="235" text-anchor="middle" font-size="17" fill="#777">접두사</text>
+<text x="295" y="235" text-anchor="middle" font-size="17" fill="#777">접두사</text>
+<text x="475" y="235" text-anchor="middle" font-size="17" fill="#777">어근</text>
+<text x="675" y="235" text-anchor="middle" font-size="17" fill="#777">접미사</text>
+<line x1="400" y1="255" x2="400" y2="290" stroke="#555" stroke-width="4" marker-end="url(#a)"/>
+<rect x="150" y="300" width="500" height="70" rx="12" fill="#4B2A86"/><text x="400.0" y="345.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">unpredictable</text>
+<text x="400" y="405" text-anchor="middle" font-size="21" fill="#333" font-weight="bold">미리 말할 수 없는 → 예측할 수 없는</text>
+</svg>

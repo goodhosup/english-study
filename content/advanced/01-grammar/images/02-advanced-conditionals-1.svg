@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="420" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">혼합 가정법: 과거의 조건, 현재의 결과</text>
+<line x1="80" y1="300" x2="720" y2="300" stroke="#999" stroke-width="4"/>
+<line x1="700" y1="300" x2="740" y2="300" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<circle cx="200" cy="300" r="10" fill="#E8833A"/>
+<circle cx="600" cy="300" r="10" fill="#7B4FC9"/>
+<text x="200" y="340" text-anchor="middle" font-size="20" fill="#333" font-weight="bold">과거 (그때)</text>
+<text x="600" y="340" text-anchor="middle" font-size="20" fill="#333" font-weight="bold">현재 (지금)</text>
+<rect x="60" y="100" width="290" height="130" rx="12" fill="#E8833A"/><text x="205.0" y="158.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">If I had taken</text><text x="205.0" y="186.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">that job,</text>
+<rect x="450" y="100" width="290" height="130" rx="12" fill="#7B4FC9"/><text x="595.0" y="158.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">I would be living</text><text x="595.0" y="186.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">in London now.</text>
+<line x1="355" y1="165" x2="440" y2="165" stroke="#555" stroke-width="4" marker-end="url(#a)"/>
+<line x1="200" y1="230" x2="200" y2="290" stroke="#E8833A" stroke-width="3" stroke-dasharray="6 5"/>
+<line x1="600" y1="230" x2="600" y2="290" stroke="#7B4FC9" stroke-width="3" stroke-dasharray="6 5"/>
+<text x="400" y="395" text-anchor="middle" font-size="19" fill="#333">if절: had p.p. (과거의 반대)   →   주절: would + 동사원형 (현재의 반대)</text>
+</svg>

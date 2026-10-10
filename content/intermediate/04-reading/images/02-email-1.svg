@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="485" viewBox="0 0 800 485" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="485" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">업무 이메일의 구조</text>
+<rect x="90" y="75" width="620" height="390" rx="14" fill="#FFF" stroke="#BBB" stroke-width="2"/>
+<rect x="110" y="92" width="110" height="40" rx="12" fill="#7FA3E3"/><text x="165.0" y="118.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">제목</text>
+<text x="240" y="119" text-anchor="start" font-size="19" fill="#333">Subject: Request to Reschedule ...</text>
+<rect x="110" y="144" width="110" height="40" rx="12" fill="#7FA3E3"/><text x="165.0" y="170.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">인사</text>
+<text x="240" y="171" text-anchor="start" font-size="19" fill="#333">Dear Ms. Carter,</text>
+<rect x="110" y="196" width="110" height="40" rx="12" fill="#2F6FDB"/><text x="165.0" y="222.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">목적</text>
+<text x="240" y="223" text-anchor="start" font-size="19" fill="#333">I am writing to ask if ...</text>
+<rect x="110" y="248" width="110" height="40" rx="12" fill="#7FA3E3"/><text x="165.0" y="274.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">설명</text>
+<text x="240" y="275" text-anchor="start" font-size="19" fill="#333">Unfortunately, ...</text>
+<rect x="110" y="300" width="110" height="40" rx="12" fill="#2F6FDB"/><text x="165.0" y="326.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">요청</text>
+<text x="240" y="327" text-anchor="start" font-size="19" fill="#333">Would it be possible to ...?</text>
+<rect x="110" y="352" width="110" height="40" rx="12" fill="#7FA3E3"/><text x="165.0" y="378.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">맺음말</text>
+<text x="240" y="379" text-anchor="start" font-size="19" fill="#333">I look forward to hearing from you.</text>
+<rect x="110" y="404" width="110" height="40" rx="12" fill="#7FA3E3"/><text x="165.0" y="430.48" text-anchor="middle" font-size="18" fill="#FFF" font-weight="bold">서명</text>
+<text x="240" y="431" text-anchor="start" font-size="19" fill="#333">Best regards, Jiho Kim</text>
+</svg>

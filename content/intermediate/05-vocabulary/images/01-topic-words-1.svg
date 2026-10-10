@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="430" viewBox="0 0 800 430" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="430" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">주제별 어휘 지도</text>
+<rect x="40" y="80" width="345" height="150" rx="12" fill="#FFF" stroke="#2F6FDB" stroke-width="3"/>
+<rect x="40" y="80" width="345" height="48" rx="12" fill="#2F6FDB"/>
+<text x="212" y="112" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">일 Work</text>
+<text x="212" y="168" text-anchor="middle" font-size="19" fill="#333">deadline · salary · hire</text>
+<text x="212" y="202" text-anchor="middle" font-size="19" fill="#333">promotion · colleague</text>
+<rect x="415" y="80" width="345" height="150" rx="12" fill="#FFF" stroke="#2E9E5B" stroke-width="3"/>
+<rect x="415" y="80" width="345" height="48" rx="12" fill="#2E9E5B"/>
+<text x="587" y="112" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">건강 Health</text>
+<text x="587" y="168" text-anchor="middle" font-size="19" fill="#333">symptom · prescription</text>
+<text x="587" y="202" text-anchor="middle" font-size="19" fill="#333">recover · side effect</text>
+<rect x="40" y="250" width="345" height="150" rx="12" fill="#FFF" stroke="#E8833A" stroke-width="3"/>
+<rect x="40" y="250" width="345" height="48" rx="12" fill="#E8833A"/>
+<text x="212" y="282" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">여행 Travel</text>
+<text x="212" y="338" text-anchor="middle" font-size="19" fill="#333">itinerary · layover</text>
+<text x="212" y="372" text-anchor="middle" font-size="19" fill="#333">luggage · souvenir</text>
+<rect x="415" y="250" width="345" height="150" rx="12" fill="#FFF" stroke="#7B4FC9" stroke-width="3"/>
+<rect x="415" y="250" width="345" height="48" rx="12" fill="#7B4FC9"/>
+<text x="587" y="282" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">기술 Technology</text>
+<text x="587" y="338" text-anchor="middle" font-size="19" fill="#333">update · password</text>
+<text x="587" y="372" text-anchor="middle" font-size="19" fill="#333">back up · storage</text>
+</svg>

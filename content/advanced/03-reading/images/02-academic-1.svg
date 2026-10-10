@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="340" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">논문의 기본 구조 (IMRaD)</text>
+<rect x="30" y="95" width="165" height="90" rx="12" fill="#7B4FC9"/><text x="112.5" y="134.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">Introduction</text><text x="112.5" y="161.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">서론</text>
+<rect x="30" y="210" width="165" height="50" rx="12" fill="#E6DCF7"/><text x="112.5" y="241.84" text-anchor="middle" font-size="19" fill="#4B2A86" font-weight="bold">왜 연구했나?</text>
+<line x1="198" y1="140" x2="216" y2="140" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="220" y="95" width="165" height="90" rx="12" fill="#7B4FC9"/><text x="302.5" y="134.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">Methods</text><text x="302.5" y="161.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">방법</text>
+<rect x="220" y="210" width="165" height="50" rx="12" fill="#E6DCF7"/><text x="302.5" y="241.84" text-anchor="middle" font-size="19" fill="#4B2A86" font-weight="bold">어떻게?</text>
+<line x1="388" y1="140" x2="406" y2="140" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="410" y="95" width="165" height="90" rx="12" fill="#7B4FC9"/><text x="492.5" y="134.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">Results</text><text x="492.5" y="161.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">결과</text>
+<rect x="410" y="210" width="165" height="50" rx="12" fill="#E6DCF7"/><text x="492.5" y="241.84" text-anchor="middle" font-size="19" fill="#4B2A86" font-weight="bold">무엇을 발견?</text>
+<line x1="578" y1="140" x2="596" y2="140" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="600" y="95" width="165" height="90" rx="12" fill="#7B4FC9"/><text x="682.5" y="134.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">Discussion</text><text x="682.5" y="161.06" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">논의</text>
+<rect x="600" y="210" width="165" height="50" rx="12" fill="#E6DCF7"/><text x="682.5" y="241.84" text-anchor="middle" font-size="19" fill="#4B2A86" font-weight="bold">무슨 뜻인가?</text>
+<text x="400" y="310" text-anchor="middle" font-size="20" fill="#333" font-weight="bold">초록(Abstract)은 이 네 부분을 한 단락으로 줄인 것</text>
+</svg>

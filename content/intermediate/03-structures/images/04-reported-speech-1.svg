@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="445" viewBox="0 0 800 445" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="445" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">직접화법을 간접화법으로</text>
+<text x="110" y="120" text-anchor="start" font-size="20" fill="#333" font-weight="bold">직접화법</text>
+<rect x="110" y="135" width="580" height="64" rx="12" fill="#FFF" stroke="#999" stroke-width="3"/>
+<text x="400" y="177" text-anchor="middle" font-size="26" fill="#222">She said, "<tspan fill="#E05252" font-weight="bold">I am</tspan> tired."</text>
+<line x1="400" y1="205" x2="400" y2="262" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<rect x="150" y="215" width="200" height="40" rx="12" fill="#FFF" stroke="#E05252" stroke-width="3"/><text x="250.0" y="241.12" text-anchor="middle" font-size="17" fill="#E05252" font-weight="bold">I → she (대명사)</text>
+<rect x="450" y="215" width="220" height="40" rx="12" fill="#FFF" stroke="#E05252" stroke-width="3"/><text x="560.0" y="241.12" text-anchor="middle" font-size="17" fill="#E05252" font-weight="bold">am → was (시제)</text>
+<text x="110" y="300" text-anchor="start" font-size="20" fill="#333" font-weight="bold">간접화법</text>
+<rect x="110" y="315" width="580" height="64" rx="12" fill="#FFF" stroke="#2F6FDB" stroke-width="3"/>
+<text x="400" y="357" text-anchor="middle" font-size="26" fill="#222">She said that <tspan fill="#2F6FDB" font-weight="bold">she was</tspan> tired.</text>
+<text x="400" y="420" text-anchor="middle" font-size="19" fill="#444">said가 과거이면 옮기는 말도 한 칸 과거로</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="455" viewBox="0 0 800 455" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="455" fill="#FFF6EE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#7A4A22">상황별 맞장구</text>
+<rect x="30" y="80" width="360" height="46" rx="12" fill="#E8833A"/><text x="210.0" y="110.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">놀랐을 때</text>
+<rect x="30" y="130" width="360" height="104" rx="12" fill="#FFFFFF" stroke="#E8833A" stroke-width="2"/>
+<text x="210" y="162" text-anchor="middle" font-size="20" fill="#222">Really?</text>
+<text x="210" y="192" text-anchor="middle" font-size="20" fill="#222">No way!</text>
+<text x="210" y="222" text-anchor="middle" font-size="20" fill="#222">You're kidding!</text>
+<rect x="410" y="80" width="360" height="46" rx="12" fill="#E05252"/><text x="590.0" y="110.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">공감할 때</text>
+<rect x="410" y="130" width="360" height="104" rx="12" fill="#FFFFFF" stroke="#E05252" stroke-width="2"/>
+<text x="590" y="162" text-anchor="middle" font-size="20" fill="#222">Oh no.</text>
+<text x="590" y="192" text-anchor="middle" font-size="20" fill="#222">That's too bad.</text>
+<text x="590" y="222" text-anchor="middle" font-size="20" fill="#222">I'm sorry to hear that.</text>
+<rect x="30" y="250" width="360" height="46" rx="12" fill="#2E9E5B"/><text x="210.0" y="280.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">동의할 때</text>
+<rect x="30" y="300" width="360" height="104" rx="12" fill="#FFFFFF" stroke="#2E9E5B" stroke-width="2"/>
+<text x="210" y="332" text-anchor="middle" font-size="20" fill="#222">Exactly.</text>
+<text x="210" y="362" text-anchor="middle" font-size="20" fill="#222">Tell me about it.</text>
+<text x="210" y="392" text-anchor="middle" font-size="20" fill="#222">I know, right?</text>
+<rect x="410" y="250" width="360" height="46" rx="12" fill="#3D7BD9"/><text x="590.0" y="280.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">더 듣고 싶을 때</text>
+<rect x="410" y="300" width="360" height="104" rx="12" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="2"/>
+<text x="590" y="332" text-anchor="middle" font-size="20" fill="#222">And then?</text>
+<text x="590" y="362" text-anchor="middle" font-size="20" fill="#222">What happened?</text>
+<text x="590" y="392" text-anchor="middle" font-size="20" fill="#222">How did it go?</text>
+<text x="400" y="437" text-anchor="middle" font-size="18" fill="#5B6B7A">상대가 말하는 동안 짧게 반응하면 잘 듣고 있다는 신호가 됩니다.</text>
+</svg>

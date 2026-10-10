@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="455" viewBox="0 0 800 455" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="455" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">if 문장의 세 가지 거리</text>
+<rect x="30" y="80" width="230" height="56" rx="12" fill="#5E8FE0"/><text x="145.0" y="115.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">현실 조건</text>
+<rect x="30" y="146" width="230" height="210" rx="12" fill="#FFF" stroke="#5E8FE0" stroke-width="3"/>
+<text x="145" y="186" text-anchor="middle" font-size="19" fill="#5E8FE0" font-weight="bold">If + 현재형,</text>
+<text x="145" y="214" text-anchor="middle" font-size="19" fill="#5E8FE0" font-weight="bold">will + 동사원형</text>
+<line x1="50" y1="240" x2="240" y2="240" stroke="#DDD" stroke-width="2"/>
+<text x="145" y="282" text-anchor="middle" font-size="18" fill="#333">If it rains,</text>
+<text x="145" y="310" text-anchor="middle" font-size="18" fill="#333">I'll stay home.</text>
+<rect x="285" y="80" width="230" height="56" rx="12" fill="#2F6FDB"/><text x="400.0" y="115.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">지금의 상상</text>
+<rect x="285" y="146" width="230" height="210" rx="12" fill="#FFF" stroke="#2F6FDB" stroke-width="3"/>
+<text x="400" y="186" text-anchor="middle" font-size="19" fill="#2F6FDB" font-weight="bold">If + 과거형,</text>
+<text x="400" y="214" text-anchor="middle" font-size="19" fill="#2F6FDB" font-weight="bold">would + 동사원형</text>
+<line x1="305" y1="240" x2="495" y2="240" stroke="#DDD" stroke-width="2"/>
+<text x="400" y="282" text-anchor="middle" font-size="18" fill="#333">If I were you,</text>
+<text x="400" y="310" text-anchor="middle" font-size="18" fill="#333">I'd take the job.</text>
+<rect x="540" y="80" width="230" height="56" rx="12" fill="#1C4189"/><text x="655.0" y="115.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">과거의 상상</text>
+<rect x="540" y="146" width="230" height="210" rx="12" fill="#FFF" stroke="#1C4189" stroke-width="3"/>
+<text x="655" y="186" text-anchor="middle" font-size="19" fill="#1C4189" font-weight="bold">If + had p.p.,</text>
+<text x="655" y="214" text-anchor="middle" font-size="19" fill="#1C4189" font-weight="bold">would have p.p.</text>
+<line x1="560" y1="240" x2="750" y2="240" stroke="#DDD" stroke-width="2"/>
+<text x="655" y="282" text-anchor="middle" font-size="18" fill="#333">If I had left earlier,</text>
+<text x="655" y="310" text-anchor="middle" font-size="18" fill="#333">I'd have caught it.</text>
+<line x1="60" y1="395" x2="735" y2="395" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<text x="400" y="430" text-anchor="middle" font-size="19" fill="#444">현실에서 멀어질수록 시제가 한 칸씩 과거로</text>
+</svg>

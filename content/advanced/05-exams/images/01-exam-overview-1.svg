@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="445" viewBox="0 0 800 445" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="445" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">세 가지 영어 시험 비교</text>
+<rect x="40" y="80" width="220" height="300" rx="14" fill="#FFF" stroke="#E8833A" stroke-width="3"/>
+<rect x="40" y="80" width="220" height="64" rx="12" fill="#E8833A"/><text x="150.0" y="122.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">TOEIC</text>
+<text x="150" y="180" text-anchor="middle" font-size="17" fill="#777">주로 쓰이는 곳</text>
+<text x="150" y="210" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">취업·승진</text>
+<text x="150" y="265" text-anchor="middle" font-size="17" fill="#777">다루는 상황</text>
+<text x="150" y="295" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">회사, 출장,</text>
+<text x="150" y="323" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">일상 업무</text>
+<rect x="290" y="80" width="220" height="300" rx="14" fill="#FFF" stroke="#3D7BD9" stroke-width="3"/>
+<rect x="290" y="80" width="220" height="64" rx="12" fill="#3D7BD9"/><text x="400.0" y="122.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">TOEFL</text>
+<text x="400" y="180" text-anchor="middle" font-size="17" fill="#777">주로 쓰이는 곳</text>
+<text x="400" y="210" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">미국 등 대학 입학</text>
+<text x="400" y="265" text-anchor="middle" font-size="17" fill="#777">다루는 상황</text>
+<text x="400" y="295" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">강의실,</text>
+<text x="400" y="323" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">캠퍼스 생활</text>
+<rect x="540" y="80" width="220" height="300" rx="14" fill="#FFF" stroke="#7B4FC9" stroke-width="3"/>
+<rect x="540" y="80" width="220" height="64" rx="12" fill="#7B4FC9"/><text x="650.0" y="122.08" text-anchor="middle" font-size="28" fill="#FFF" font-weight="bold">IELTS</text>
+<text x="650" y="180" text-anchor="middle" font-size="17" fill="#777">주로 쓰이는 곳</text>
+<text x="650" y="210" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">영국·호주 유학, 이민</text>
+<text x="650" y="265" text-anchor="middle" font-size="17" fill="#777">다루는 상황</text>
+<text x="650" y="295" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">학업 또는</text>
+<text x="650" y="323" text-anchor="middle" font-size="19" fill="#222" font-weight="bold">일반 생활</text>
+<text x="400" y="420" text-anchor="middle" font-size="19" fill="#333">세부 형식과 점수 체계는 공식 사이트에서 최신 정보를 확인</text>
+</svg>

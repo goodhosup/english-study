@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="410" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">분사: 하는 쪽(-ing)과 당한 쪽(p.p.)</text>
+<rect x="40" y="85" width="350" height="250" rx="12" fill="#FFF" stroke="#2F6FDB" stroke-width="3"/>
+<text x="215" y="122" text-anchor="middle" font-size="23" fill="#2F6FDB" font-weight="bold">현재분사 -ing</text>
+<rect x="70" y="160" width="120" height="56" rx="12" fill="#2F6FDB"/><text x="130.0" y="195.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">baby</text>
+<line x1="200" y1="188" x2="340" y2="188" stroke="#2F6FDB" stroke-width="4" marker-end="url(#a)"/>
+<text x="275" y="175" text-anchor="middle" font-size="17" fill="#2F6FDB">스스로 운다</text>
+<text x="275" y="215" text-anchor="middle" font-size="17" fill="#666">능동</text>
+<text x="215" y="275" text-anchor="middle" font-size="24" fill="#222" font-weight="bold">a crying baby</text>
+<text x="215" y="310" text-anchor="middle" font-size="19" fill="#555">우는 아기</text>
+<rect x="410" y="85" width="350" height="250" rx="12" fill="#FFF" stroke="#E8833A" stroke-width="3"/>
+<text x="585" y="122" text-anchor="middle" font-size="23" fill="#E8833A" font-weight="bold">과거분사 p.p.</text>
+<rect x="440" y="160" width="120" height="56" rx="12" fill="#E8833A"/><text x="500.0" y="195.56" text-anchor="middle" font-size="21" fill="#FFF" font-weight="bold">window</text>
+<line x1="710" y1="188" x2="572" y2="188" stroke="#E8833A" stroke-width="4" marker-end="url(#a)"/>
+<text x="645" y="175" text-anchor="middle" font-size="17" fill="#E8833A">누군가 깼다</text>
+<text x="645" y="215" text-anchor="middle" font-size="17" fill="#666">수동</text>
+<text x="585" y="275" text-anchor="middle" font-size="24" fill="#222" font-weight="bold">a broken window</text>
+<text x="585" y="310" text-anchor="middle" font-size="19" fill="#555">깨진 창문</text>
+<text x="400" y="380" text-anchor="middle" font-size="19" fill="#444">boring 지루하게 하는 (주는 쪽)  ↔  bored 지루함을 느끼는 (사람)</text>
+</svg>

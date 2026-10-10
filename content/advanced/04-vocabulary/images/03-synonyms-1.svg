@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="450" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">유의어의 어감 눈금</text>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#E05252"/><stop offset="0.5" stop-color="#BBB"/><stop offset="1" stop-color="#2E9E5B"/></linearGradient></defs>
+<rect x="80" y="82" width="640" height="14" rx="7" fill="url(#g)"/>
+<text x="80" y="125" text-anchor="start" font-size="19" fill="#E05252" font-weight="bold">나쁜 느낌</text>
+<text x="400" y="125" text-anchor="middle" font-size="19" fill="#777" font-weight="bold">중립</text>
+<text x="720" y="125" text-anchor="end" font-size="19" fill="#2E9E5B" font-weight="bold">좋은 느낌</text>
+<line x1="150" y1="178" x2="650" y2="178" stroke="#CCC" stroke-width="3" stroke-dasharray="6 6"/>
+<rect x="65" y="150" width="170" height="56" rx="12" fill="#E05252"/><text x="150.0" y="185.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">skinny</text>
+<rect x="315" y="150" width="170" height="56" rx="12" fill="#5B6B7A"/><text x="400.0" y="185.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">thin</text>
+<rect x="565" y="150" width="170" height="56" rx="12" fill="#2E9E5B"/><text x="650.0" y="185.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">slim</text>
+<line x1="150" y1="258" x2="650" y2="258" stroke="#CCC" stroke-width="3" stroke-dasharray="6 6"/>
+<rect x="65" y="230" width="170" height="56" rx="12" fill="#E05252"/><text x="150.0" y="265.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">stingy</text>
+<rect x="315" y="230" width="170" height="56" rx="12" fill="#5B6B7A"/><text x="400.0" y="265.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">frugal</text>
+<rect x="565" y="230" width="170" height="56" rx="12" fill="#2E9E5B"/><text x="650.0" y="265.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">thrifty</text>
+<line x1="150" y1="338" x2="650" y2="338" stroke="#CCC" stroke-width="3" stroke-dasharray="6 6"/>
+<rect x="65" y="310" width="170" height="56" rx="12" fill="#E05252"/><text x="150.0" y="345.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">stubborn</text>
+<rect x="315" y="310" width="170" height="56" rx="12" fill="#5B6B7A"/><text x="400.0" y="345.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">firm</text>
+<rect x="565" y="310" width="170" height="56" rx="12" fill="#2E9E5B"/><text x="650.0" y="345.92" text-anchor="middle" font-size="22" fill="#FFF" font-weight="bold">determined</text>
+<text x="400" y="420" text-anchor="middle" font-size="20" fill="#333" font-weight="bold">뜻은 비슷해도 칭찬인지 비판인지가 다르다</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="500" fill="#FFF6EE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#7A4A22">옷 가게에서</text>
+<rect y="390" width="800" height="110" fill="#F2D9C2"/>
+<line x1="300" y1="190" x2="520" y2="190" stroke="#777" stroke-width="6"/>
+<line x1="310" y1="190" x2="310" y2="360" stroke="#777" stroke-width="6"/>
+<line x1="510" y1="190" x2="510" y2="360" stroke="#777" stroke-width="6"/>
+<path d="M330 195 L370 195 L374 290 L326 290 Z" fill="#E05252"/>
+<path d="M376 195 L416 195 L420 290 L372 290 Z" fill="#2E9E5B"/>
+<path d="M422 195 L462 195 L466 290 L418 290 Z" fill="#FFC94A"/>
+<path d="M468 195 L508 195 L512 290 L464 290 Z" fill="#7B4FC9"/>
+<rect x="560" y="300" width="0" height="0"/>
+<rect x="122" y="352" width="22" height="90" rx="8" fill="#2D3E5A"/><rect x="156" y="352" width="22" height="90" rx="8" fill="#2D3E5A"/><rect x="108" y="262" width="84" height="104" rx="28" fill="#E8833A"/><rect x="116" y="218" width="68" height="58" rx="22" fill="#3B2A20"/><circle cx="150" cy="232" r="32" fill="#F5C9A5"/><path d="M118 226 Q122 194 150 196 Q180 194 182 224 Q166 210 150 212 Q132 210 118 226 Z" fill="#3B2A20"/><circle cx="154" cy="234" r="3" fill="#333"/><circle cx="168" cy="234" r="3" fill="#333"/><path d="M153 246 Q161 253 169 246" stroke="#333" stroke-width="2.5" fill="none"/>
+<rect x="622" y="352" width="22" height="90" rx="8" fill="#2D3E5A"/><rect x="656" y="352" width="22" height="90" rx="8" fill="#2D3E5A"/><rect x="608" y="262" width="84" height="104" rx="28" fill="#3D7BD9"/><circle cx="650" cy="232" r="32" fill="#E9B48C"/><path d="M618 226 Q622 194 650 196 Q680 194 682 224 Q666 210 650 212 Q632 210 618 226 Z" fill="#1F1F1F"/><circle cx="636" cy="234" r="3" fill="#333"/><circle cx="650" cy="234" r="3" fill="#333"/><path d="M635 246 Q643 253 651 246" stroke="#333" stroke-width="2.5" fill="none"/>
+<path d="M688 300 L728 300 L732 380 L684 380 Z" fill="#2E9E5B"/>
+<rect x="20" y="74" width="275.0" height="76" rx="18" fill="#FFFFFF" stroke="#E8833A" stroke-width="3"/><path d="M158 148 L170 178 L184 148 Z" fill="#FFFFFF" stroke="#E8833A" stroke-width="3" stroke-linejoin="round"/><rect x="156" y="142" width="30" height="9" fill="#FFFFFF"/><text x="157.5" y="108" text-anchor="middle" font-size="19" fill="#222">Of course. The fitting</text><text x="157.5" y="135" text-anchor="middle" font-size="19" fill="#222">room is over there.</text>
+<rect x="580.75" y="74" width="138.5" height="76" rx="18" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="3"/><path d="M618 148 L630 178 L644 148 Z" fill="#FFFFFF" stroke="#3D7BD9" stroke-width="3" stroke-linejoin="round"/><rect x="616" y="142" width="30" height="9" fill="#FFFFFF"/><text x="650.0" y="108" text-anchor="middle" font-size="19" fill="#222">Can I try</text><text x="650.0" y="135" text-anchor="middle" font-size="19" fill="#222">this on?</text>
+<text x="400" y="482" text-anchor="middle" font-size="19" fill="#7A4A22">점원(A)에게 옷을 입어 봐도 되는지 묻는 손님(B)</text>
+</svg>

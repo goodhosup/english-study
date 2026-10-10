@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="330" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">고전 문장을 읽는 세 단계</text>
+<rect x="30" y="90" width="230" height="110" rx="12" fill="#FFF" stroke="#7B4FC9" stroke-width="3"/><text x="145.0" y="139.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">① 원문</text><text x="145.0" y="165.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">in want of a wife</text>
+<rect x="285" y="90" width="230" height="110" rx="12" fill="#FFF" stroke="#7B4FC9" stroke-width="3"/><text x="400.0" y="139.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">② 오늘날 영어로</text><text x="400.0" y="165.2" text-anchor="middle" font-size="20" fill="#222" font-weight="bold">needs a wife</text>
+<rect x="540" y="90" width="230" height="110" rx="12" fill="#7B4FC9"/><text x="655.0" y="139.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">③ 작가의 의도</text><text x="655.0" y="165.2" text-anchor="middle" font-size="20" fill="#FFF" font-weight="bold">반어 (irony)</text>
+<line x1="262" y1="145" x2="280" y2="145" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<line x1="517" y1="145" x2="535" y2="145" stroke="#555" stroke-width="3" marker-end="url(#a)"/>
+<text x="145" y="235" text-anchor="middle" font-size="19" fill="#555">낯선 표현 찾기</text>
+<text x="400" y="235" text-anchor="middle" font-size="19" fill="#555">쉬운 말로 바꾸기</text>
+<text x="655" y="235" text-anchor="middle" font-size="19" fill="#555">왜 이렇게 썼을까?</text>
+<text x="400" y="300" text-anchor="middle" font-size="20" fill="#4B2A86" font-weight="bold">Jane Austen, Pride and Prejudice (1813)</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="480" fill="#F7F3FD"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#4B2A86">영어 단락의 구조</text>
+<rect x="60" y="80" width="470" height="64" rx="12" fill="#4B2A86"/><text x="295.0" y="120.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">Topic sentence</text>
+<rect x="100" y="160" width="390" height="54" rx="12" fill="#E6DCF7"/><text x="295.0" y="194.56" text-anchor="middle" font-size="21" fill="#4B2A86" font-weight="bold">Supporting sentence 1</text>
+<rect x="100" y="224" width="390" height="54" rx="12" fill="#E6DCF7"/><text x="295.0" y="258.56" text-anchor="middle" font-size="21" fill="#4B2A86" font-weight="bold">Supporting sentence 2</text>
+<rect x="100" y="288" width="390" height="54" rx="12" fill="#E6DCF7"/><text x="295.0" y="322.56" text-anchor="middle" font-size="21" fill="#4B2A86" font-weight="bold">Supporting sentence 3</text>
+<rect x="60" y="358" width="470" height="64" rx="12" fill="#7B4FC9"/><text x="295.0" y="398.64" text-anchor="middle" font-size="24" fill="#FFF" font-weight="bold">Concluding sentence</text>
+<text x="560" y="120" text-anchor="start" font-size="21" fill="#333" font-weight="bold">주제문: 요점 먼저</text>
+<text x="560" y="225" text-anchor="start" font-size="21" fill="#333" font-weight="bold">뒷받침 문장:</text>
+<text x="560" y="255" text-anchor="start" font-size="20" fill="#555">이유, 예시, 자료</text>
+<text x="560" y="398" text-anchor="start" font-size="21" fill="#333" font-weight="bold">마무리 문장: 요점 정리</text>
+<text x="400" y="455" text-anchor="middle" font-size="19" fill="#333">First, Second, For example, In short ... 연결어로 잇는다</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="NanumBarunGothic, NanumGothic, sans-serif">
+<defs><marker id="a" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#555"/></marker></defs>
+<rect width="800" height="470" fill="#F3F7FE"/>
+<text x="400.0" y="48" text-anchor="middle" font-size="30" font-weight="bold" fill="#1C4189">이야기의 흐름: The Yellow Umbrella</text>
+<path d="M80 370 Q 430 -40 760 330" fill="none" stroke="#2F6FDB" stroke-width="5" marker-end="url(#a)"/>
+<circle cx="136" cy="309" r="20" fill="#F2C230" stroke="#B8860B" stroke-width="2"/>
+<text x="136" y="316" text-anchor="middle" font-size="20" fill="#5A4200" font-weight="bold">1</text>
+<text x="115" y="418" text-anchor="middle" font-size="20" fill="#1C4189" font-weight="bold">1. 시작</text>
+<text x="115" y="446" text-anchor="middle" font-size="18" fill="#555">비 오는 정류장</text>
+<circle cx="309" cy="184" r="20" fill="#F2C230" stroke="#B8860B" stroke-width="2"/>
+<text x="309" y="191" text-anchor="middle" font-size="20" fill="#5A4200" font-weight="bold">2</text>
+<text x="305" y="418" text-anchor="middle" font-size="20" fill="#1C4189" font-weight="bold">2. 사건</text>
+<text x="305" y="446" text-anchor="middle" font-size="18" fill="#555">우산을 건넴</text>
+<circle cx="459" cy="155" r="20" fill="#F2C230" stroke="#B8860B" stroke-width="2"/>
+<text x="459" y="162" text-anchor="middle" font-size="20" fill="#5A4200" font-weight="bold">3</text>
+<text x="495" y="418" text-anchor="middle" font-size="20" fill="#1C4189" font-weight="bold">3. 전환</text>
+<text x="495" y="446" text-anchor="middle" font-size="18" fill="#555">석 달 뒤 병원</text>
+<circle cx="661" cy="237" r="20" fill="#F2C230" stroke="#B8860B" stroke-width="2"/>
+<text x="661" y="244" text-anchor="middle" font-size="20" fill="#5A4200" font-weight="bold">4</text>
+<text x="685" y="418" text-anchor="middle" font-size="20" fill="#1C4189" font-weight="bold">4. 결말</text>
+<text x="685" y="446" text-anchor="middle" font-size="18" fill="#555">우산과 쪽지</text>
+</svg>
